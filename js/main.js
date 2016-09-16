@@ -7,7 +7,7 @@ function validateForm(){
         var padre = ref.parentNode;
         padre.insertBefore(span, ref);
         var text = document.createTextNode("ingrese un nombre valido");
-        span.appendChild(text);
+        span.appendChild(text); 
     };
     // last name
     var d = document.getElementById("lastname").value;

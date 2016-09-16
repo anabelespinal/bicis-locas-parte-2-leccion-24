@@ -14,4 +14,4 @@ Partiendo del ejercicio Loc@s por las bicis cambiaremos la forma de mostrar los 
 - El campo password no puede ser igual a "password" ó "123456" ó "098754"
 - El valor seleccionado de bicis, debe ser una de las opciones presentadas
 
-**NOTA: ** Recomendamos que el mensaje se añada con un span ya que los estilos ya están definidos.
+**NOTA: ** Recomendamos que el mensaje se añada con un span ya que los estilos ya están definidos. 

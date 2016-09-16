@@ -59,5 +59,5 @@ function validateForm(){
         padre.insertBefore(span, ref);
         var text = document.createTextNode("escoge una bicicleta");
         span.appendChild(text);
-    }
+    } 
 };
